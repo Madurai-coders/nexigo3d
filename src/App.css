@@ -1,0 +1,18 @@
+body{
+    /* padding: 0px 70px; */
+}
+/* Width of the entire scrollbar */
+::-webkit-scrollbar {
+    width: 6px; /* Change this to your desired width */
+}
+
+/* The scrollbar track (the background of the scrollbar) */
+
+
+/* The draggable scrollbar handle */
+::-webkit-scrollbar-thumb {
+    background-color: #F5844D;
+    border-radius: 10px; 
+}
+
+
